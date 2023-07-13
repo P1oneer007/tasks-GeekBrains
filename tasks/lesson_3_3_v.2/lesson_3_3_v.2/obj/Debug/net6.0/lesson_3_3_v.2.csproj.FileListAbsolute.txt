@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\bin\Debug\net6.0\lesson_3_3_v.2.exe
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\bin\Debug\net6.0\lesson_3_3_v.2.deps.json
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\bin\Debug\net6.0\lesson_3_3_v.2.runtimeconfig.json
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\bin\Debug\net6.0\lesson_3_3_v.2.dll
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\bin\Debug\net6.0\lesson_3_3_v.2.pdb
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.AssemblyInfo.cs
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.dll
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\refint\lesson_3_3_v.2.dll
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.pdb
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\lesson_3_3_v.2.genruntimeconfig.cache
+C:\Users\root\source\repos\lesson_3_3_v.2\lesson_3_3_v.2\obj\Debug\net6.0\ref\lesson_3_3_v.2.dll

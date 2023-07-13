@@ -1,0 +1,15 @@
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\bin\Debug\net6.0\lesson_5_2.exe
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\bin\Debug\net6.0\lesson_5_2.deps.json
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\bin\Debug\net6.0\lesson_5_2.runtimeconfig.json
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\bin\Debug\net6.0\lesson_5_2.dll
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\bin\Debug\net6.0\lesson_5_2.pdb
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.csproj.AssemblyReference.cache
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.AssemblyInfoInputs.cache
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.AssemblyInfo.cs
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.dll
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\refint\lesson_5_2.dll
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.pdb
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\lesson_5_2.genruntimeconfig.cache
+C:\Users\Superuser\source\repos\lesson_5_2\lesson_5_2\obj\Debug\net6.0\ref\lesson_5_2.dll
