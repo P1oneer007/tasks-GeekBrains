@@ -1,0 +1,15 @@
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\bin\Debug\net6.0\lesson_2_4.exe
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\bin\Debug\net6.0\lesson_2_4.deps.json
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\bin\Debug\net6.0\lesson_2_4.runtimeconfig.json
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\bin\Debug\net6.0\lesson_2_4.dll
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\bin\Debug\net6.0\lesson_2_4.pdb
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.csproj.AssemblyReference.cache
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.AssemblyInfoInputs.cache
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.AssemblyInfo.cs
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.dll
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\refint\lesson_2_4.dll
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.pdb
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\lesson_2_4.genruntimeconfig.cache
+C:\Users\Superuser\source\repos\lesson_2_4\lesson_2_4\obj\Debug\net6.0\ref\lesson_2_4.dll
