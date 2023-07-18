@@ -1,0 +1,2 @@
+D:\data\desktop\lesson_7\obj\Debug\lesson_7.csproj.AssemblyReference.cache
+D:\data\desktop\lesson_7\obj\Debug\lesson_7.csproj.CoreCompileInputs.cache
