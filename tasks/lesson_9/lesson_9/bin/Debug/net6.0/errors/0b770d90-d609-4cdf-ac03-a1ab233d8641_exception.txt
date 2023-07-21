@@ -1,2 +1,0 @@
-System.IO.DirectoryNotFoundException: Directory 'c:|' not found.
-   at FileExplorer.Program.Main(String[] args) in D:\data\desktop\lesson_9\lesson_9\Program.cs:line 73
