@@ -15,7 +15,8 @@ class Program
         char[] charArray = input.ToCharArray();
         int length = charArray.Length;
         char[] reversedArray = new char[length];
-        for (int i =0 ; i < length; i++)
+        //for (int i =0 ; i < length; i++)
+        for (int i = length; i >0; i++)
         {
             reversedArray[i] = charArray[length - 1 - i];
         }

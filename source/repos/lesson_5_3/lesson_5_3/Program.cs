@@ -14,11 +14,11 @@ class Program
             {
                 bytes[i] = value;
             }
-            else
-            {
-                Console.WriteLine($"Ошибка: '{numbers[i]}' не является допустимым числом (...255).");
-                return;
-            }
+            //else
+           // {
+           //     Console.WriteLine($"Ошибка: '{numbers[i]}' не является допустимым числом (...255).");
+           //     return;
+           // }
         }
         try
         {

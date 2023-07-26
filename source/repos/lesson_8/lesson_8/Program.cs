@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Configuration;
-
-namespace MyApp
-{
     class Program
     {
         static void Main(string[] args)
@@ -18,7 +15,7 @@ namespace MyApp
             Console.Write("Введите Ваш возраст: ");
             int age = int.Parse(Console.ReadLine());
 
-            Console.Write("Введите Вашу род деятельности: ");
+            Console.Write("Введите Ваш род деятельности: ");
             string occupation = Console.ReadLine();
 
             // Сохраняем данные в настройках
@@ -26,8 +23,7 @@ namespace MyApp
             config.AppSettings.Settings["Name"].Value = name;
             config.AppSettings.Settings["Age"].Value = age.ToString();
             config.AppSettings.Settings["Occupation"].Value = occupation;
-           // config.Save(ConfigurationSaveMode.Modified);
-
+            config.Save(ConfigurationSaveMode.Modified);
             Console.WriteLine("Данные сохранены.");
 
             // Выводим данные при следующем запуске
@@ -38,4 +34,3 @@ namespace MyApp
             Console.ReadLine();
         }
     }
-}
