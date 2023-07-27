@@ -1,0 +1,15 @@
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\bin\Debug\net6.0\lesson_4_1.exe
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\bin\Debug\net6.0\lesson_4_1.deps.json
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\bin\Debug\net6.0\lesson_4_1.runtimeconfig.json
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\bin\Debug\net6.0\lesson_4_1.dll
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\bin\Debug\net6.0\lesson_4_1.pdb
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.csproj.AssemblyReference.cache
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.AssemblyInfoInputs.cache
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.AssemblyInfo.cs
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.dll
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\refint\lesson_4_1.dll
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.pdb
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\lesson_4_1.genruntimeconfig.cache
+C:\Users\Superuser\source\repos\lesson_4_1\lesson_4_1\obj\Debug\net6.0\ref\lesson_4_1.dll

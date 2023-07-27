@@ -1,0 +1,30 @@
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.csproj.AssemblyReference.cache
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.AssemblyInfoInputs.cache
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.AssemblyInfo.cs
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.exe
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.deps.json
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.runtimeconfig.json
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.dll
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.pdb
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.dll
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\refint\lesson_3_2.dll
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.pdb
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.genruntimeconfig.cache
+C:\Users\Superuser\source\repos\lesson_3_2\lesson_3_2\obj\Debug\net6.0\ref\lesson_3_2.dll
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.exe
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.deps.json
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.runtimeconfig.json
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.dll
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\bin\Debug\net6.0\lesson_3_2.pdb
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.csproj.AssemblyReference.cache
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.AssemblyInfoInputs.cache
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.AssemblyInfo.cs
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.dll
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\refint\lesson_3_2.dll
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.pdb
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\lesson_3_2.genruntimeconfig.cache
+C:\Users\Superuser\Desktop\Задания к урокам\lesson_3_2\lesson_3_2\obj\Debug\net6.0\ref\lesson_3_2.dll
